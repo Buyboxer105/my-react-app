@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://buyboxer105.github.io/portfolio-build/static/css/main.8881773a.css",
+    "main.js": "https://buyboxer105.github.io/portfolio-build/static/js/main.a4d114da.js",
+    "index.html": "https://buyboxer105.github.io/portfolio-build/index.html",
+    "main.8881773a.css.map": "https://buyboxer105.github.io/portfolio-build/static/css/main.8881773a.css.map",
+    "main.a4d114da.js.map": "https://buyboxer105.github.io/portfolio-build/static/js/main.a4d114da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8881773a.css",
+    "static/js/main.a4d114da.js"
+  ]
+}
